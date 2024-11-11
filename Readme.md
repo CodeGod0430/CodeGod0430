@@ -1,9 +1,9 @@
 
 
 🙋‍♂️Welcome to everyone who is interested in Full Stack development! 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&size=30&duration=3000&pause=1500&color=000000&center=true&vCenter=true&random=false&width=900&lines=Seasoned+Full-stack+Developer;Skillful+BlockChain+Developer;Talented+AI+Engineer)](https://git.io/typing-svg)
 
-
-
+## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -70,6 +70,7 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
 </div>  
+
 <div>
 
 
