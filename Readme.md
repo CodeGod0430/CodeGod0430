@@ -75,7 +75,7 @@
 
   
 
-I am a seasoned Full Stack Developer with a diverse skill set, specializing in  🎯Web & 🎯Desktop & 🎯Mobile development as well as 🎯Blockchain development 
+## I am a seasoned Full Stack Developer with a diverse skill set, specializing in  🎯Web & 🎯Desktop & 🎯Mobile development as well as 🎯Blockchain development 
 
 
 With a strong foundation in 🎉frontend and 🎉backend technologies, I thrive on building efficient, scalable and user-friendly applications. Whether it's developing from scratch or enhancing existing systems, I enjoy transforming complex ideas into seamless digital experiences that drive results. 
