@@ -3,6 +3,7 @@
 🙋‍♂️Welcome to everyone who is interested in Full Stack development! 
 
 
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -69,8 +70,9 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
 </div>  
-
 <div>
+
+
   
 
 I am a seasoned Full Stack Developer with a diverse skill set, specializing in  🎯Web & 🎯Desktop & 🎯Mobile development as well as 🎯Blockchain development 
@@ -182,6 +184,10 @@ Selenium, BeautifulSoup, Playwright, Pandas, Scrapy, Apify, Puppeteer
 
 ✔Agile Methodology( Scrum, Kanvan, Lean Software Development) 
 
+
+😊Feel free to reach out, and let's explore how I can contribute to your project!  
+
+Thanks & Regards🚀 
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
@@ -303,7 +309,3 @@ Selenium, BeautifulSoup, Playwright, Pandas, Scrapy, Apify, Puppeteer
     </td>
  </tr>
 </table>
-
-😊Feel free to reach out, and let's explore how I can contribute to your project!  
-
-    Thanks & Regards🚀 
