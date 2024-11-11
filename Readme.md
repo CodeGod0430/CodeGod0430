@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&size=30&duration=3000&pause=1500&color=000000&center=true&vCenter=true&random=false&width=900&lines=🙋‍♂️Welcome+to+everyone+who+is+interested+in+Full+Stack+development!;Seasoned+Full-stack+Developer;Skillful+BlockChain+Developer;Talented+AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&size=30&duration=3000&pause=1500&color=000000&center=true&vCenter=true&random=false&width=900&lines=🙋‍♂️Welcome!;Seasoned+Full-stack+Developer;Skillful+BlockChain+Developer;Talented+AI+Engineer)](https://git.io/typing-svg)
 
 ## Languages and Tools  
 <div align="center">  
